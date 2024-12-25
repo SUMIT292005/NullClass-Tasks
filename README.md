@@ -26,6 +26,10 @@ Usage:
 
 4.Adjust parameters as needed to experiment with the model.
 
+5. Running on Google Colab:
+
+        Upload your kaggle.json file for API authentication.
+
 Results:
 
 The model provides age predictions with reasonable accuracy and is optimized for resource-constrained environments.
